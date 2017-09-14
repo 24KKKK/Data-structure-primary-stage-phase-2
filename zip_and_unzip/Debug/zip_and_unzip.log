@@ -1,0 +1,55 @@
+﻿生成启动时间为 2016/9/12 20:30:32。
+     1>项目“G:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\zip_and_unzip.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\zip_and_unzip.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2010install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp note.cpp
+         note.cpp
+         main.cpp
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(200): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(260): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(296): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(350): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(353): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010install\vc\include\stdio.h(277) : 参见“gets”的声明
+         正在生成代码...
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(245): warning C4715: “compress”: 不是所有的控件路径都返回值
+     1>g:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\main.cpp(329): warning C4715: “extract”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\zip_and_unzip.exe.embed.manifest.res" Debug\zip_and_unzip_manifest.rc 
+       Link:
+         D:\VS2010install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\大二下数据结构小学期\第二阶段\zip_and_unzip\Debug\zip_and_unzip.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\zip_and_unzip.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\大二下数据结构小学期\第二阶段\zip_and_unzip\Debug\zip_and_unzip.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\大二下数据结构小学期\第二阶段\zip_and_unzip\Debug\zip_and_unzip.lib" /MACHINE:X86 Debug\zip_and_unzip.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\note.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\zip_and_unzip.exe.embed.manifest" /manifest Debug\zip_and_unzip.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         zip_and_unzip.vcxproj -> G:\大二下数据结构小学期\第二阶段\zip_and_unzip\Debug\zip_and_unzip.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\zip_and_unzip.unsuccessfulbuild”。
+         正在对“Debug\zip_and_unzip.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\大二下数据结构小学期\第二阶段\zip_and_unzip\zip_and_unzip\zip_and_unzip.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.28
